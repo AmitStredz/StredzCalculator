@@ -3,6 +3,7 @@ body{
     justify-content: center;
     display: flex;
     height: 100vh;
+    background-color: rgba(142, 229, 235, 0.477);
 }
 .calculator{
     max-width: 350px;
