@@ -3,11 +3,11 @@ body{
     justify-content: center;
     display: flex;
     height: 100vh;
-    background-color: rgba(142, 229, 235, 0.477);
+    background-color: rgba(31, 30, 30, 0.866);
 }
 .calculator{
     max-width: 350px;
-    background-color: rgba(236, 53, 53, 0.458);
+    background-color: rgb(68, 53, 53);
     border-radius: 20px;
     padding: 10px 0px 10px 10px;
     box-shadow: rgb(185, 80, 80) 5px 3px 20px 5px;
@@ -19,7 +19,7 @@ body{
     padding: 20px;
     border-radius: 10px;
     border: none;
-    background-color: rgb(252, 114, 114);
+    background-color: rgba(65, 60, 60, 0.459);
     color: rgb(198, 65, 35);
     font-size: 3rem;
     text-align: left;
